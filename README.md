@@ -22,11 +22,9 @@
 
 | 👤 Member | 💼 Role |
 |-----------|---------|
-| Member 1 | Frontend & UI/UX |
-| Member 2 | Backend & Database |
-| Member 3 | Full Stack & DevOps |
-
-> ✏️ *Replace Member 1/2/3 with your actual names!*
+| barani sri | Frontend & UI/UX |
+| pavithra   | Backend & Database |
+| karthikeyan| Full Stack & DevOps |
 
 ---
 
